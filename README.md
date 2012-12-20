@@ -7,7 +7,7 @@ Issue tracking for the Steam for Linux beta client
 Reporting Bugs with the Client
 ------------------------------
 
-If you encounter any bugs while using Steam for Linux or playing any of the available Linux games, first search the existing bug database (https://github.com/ValveSoftware/steam-for-linux/issues) to see if it has already been reported. 
+If you encounter any bugs while using Steam for Linux or playing any of the available Linux games, first search the [existing bug database](https://github.com/ValveSoftware/steam-for-linux/issues) to see if it has already been reported. 
 If you can not find it, create a new bug with the following information:
 
 A short,descriptive title.
