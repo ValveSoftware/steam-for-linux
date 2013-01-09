@@ -1,5 +1,5 @@
 Steam for Linux Client
------------------------------
+======================
 
 This is the README for the Steam for Linux beta client.
 
