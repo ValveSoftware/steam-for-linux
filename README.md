@@ -31,7 +31,7 @@ Reporting Issues
 
 If you encounter an issue while using Steam for Linux, first search the [issue list](https://github.com/ValveSoftware/steam-for-linux/issues) to see if it has already been reported. Include closed issues in your search.
 
-If you have encountered issues with a Source game (HL2:DM, TF2, DoD:S, CS:S), please visit our [Source issue list](https://github.com/ValveSoftware/Source-1-Games/issues), the same goes for GoldSrc-based games (HL, HL:BS, HL:OF, TFC, DoD, DMC, CS, CS:CZ or Ricochet) and the [halflife issue list](https://github.com/ValveSoftware/halflife/issues).
+If you have encountered issues with a Source game (HL2:DM, HL2, HL2:EP1, HL2:EP2, TF2, DoD:S, CS:S), please visit our [Source issue list](https://github.com/ValveSoftware/Source-1-Games/issues), the same goes for GoldSrc-based games (HL, HL:BS, HL:OF, TFC, DoD, DMC, CS, CS:CZ or Ricochet) and the [halflife issue list](https://github.com/ValveSoftware/halflife/issues).
 
 If it has not been reported, create a new issue with at least the following information:
 
