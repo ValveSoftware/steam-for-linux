@@ -19,10 +19,10 @@ Getting Started
 ---------------
 Install the Steam for Linux client:
 
-1. Download the steam.deb package from this [location](http://media.steampowered.com/client/installer/steam.deb).
+1. Download the `steam.deb` package from this [location](http://media.steampowered.com/client/installer/steam.deb).
 2. Open a graphical file manager (for Ubuntu 12.04, click the folder icon on the Unity Launch bar).
-3. Navigate to the directory containing steam.deb and double-click it. This launches Ubuntu Software Center and installs the package.
-4. If you prefer to install from the command-line, use gdebi. Install the gdebi-core package (apt-get install gdebi-core) and then install the Steam for Linux package (gdebi steam.deb).
+3. Navigate to the directory containing `steam.deb` and double-click it. This launches Ubuntu Software Center and installs the package.
+4. If you prefer to install from the command-line, use gdebi. Install the `gdebi-core` package (`apt-get install gdebi-core`) and then install the Steam for Linux package (`gdebi steam.deb`).
 5. For a list of games supported by Steam for Linux either vist this [page](https://support.steampowered.com/kb_article.php?ref=8495-OKZC-0159) or click Store (from the client) and then the Linux tab on the far-right.
 We recommend that you join the Steam for Linux official game group, located [here](http://steamcommunity.com/app/221410). You will find future beta announcements and other information posted here as well as an active discussion forum.
 
@@ -31,7 +31,7 @@ Reporting Issues
 
 If you encounter an issue while using Steam for Linux, first search the [issue list](https://github.com/ValveSoftware/steam-for-linux/issues) to see if it has already been reported. Include closed issues in your search.
 
-If you have encountered issues with a Source game (HL2:DM, HL2, HL2:EP1, HL2:EP2, TF2, DoD:S, CS:S), please visit our [Source issue list](https://github.com/ValveSoftware/Source-1-Games/issues), the same goes for GoldSrc-based games (HL, HL:BS, HL:OF, TFC, DoD, DMC, CS, CS:CZ or Ricochet) and the [halflife issue list](https://github.com/ValveSoftware/halflife/issues).
+If you have encountered issues with a Source game (HL2:DM, HL2, HL2:EP1, HL2:EP2, TF2, DoD:S, CS:S), please visit our [Source issue list](https://github.com/ValveSoftware/Source-1-Games/issues), the same goes for GoldSrc-based games (HL, HL:BS, HL:OF, TFC, DoD, DMC, CS, CS:CZ or Ricochet) and the [Half-Life issue list](https://github.com/ValveSoftware/halflife/issues).
 
 If you have encountered issues with Portal 2, please visit our [Portal 2 Issue List](https://github.com/ValveSoftware/portal2/issues).
 
@@ -57,4 +57,4 @@ There are basic rules of conduct that should be followed at all times by everyon
 - Do not use ALL CAPS when creating an issue report.
 - Do not repeatedly update an open issue remarking that the issue persists.
 
-Remember: Just because the issue you reported was reported here does not mean that it is an issue with Steam.  As well, should your issue not be resolved immediately, it does not mean that a resolution is not being researched or tested.  Patience is always appreciated.
+Remember: Just because the issue you reported was reported here does not mean that it is an issue with Steam.  As well, should your issue not be resolved immediately, it does not mean that a resolution is not being researched or tested. Patience is always appreciated.
