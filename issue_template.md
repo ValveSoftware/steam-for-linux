@@ -1,8 +1,8 @@
 #### Your system information
 
-* Steam client version:
+* Steam client version (build number or date): 
 * Distribution (e.g. Ubuntu): 
-* Opted into Steam client beta?: [Yes/No] 
+* Opted into Steam client beta?: [Yes/No]
 * Have you checked for system updates?: [Yes/No]
 
 #### Please describe your issue in as much detail as possible:
