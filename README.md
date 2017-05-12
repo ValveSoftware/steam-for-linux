@@ -29,11 +29,14 @@ We recommend that you join the Steam for Linux official game group, located [he
 Reporting Issues
 ----------------
 
-If you encounter an issue while using Steam for Linux, first search the [issue list](https://github.com/ValveSoftware/steam-for-linux/issues) to see if it has already been reported. Include closed issues in your search.
+If you encounter an issue with Steam for Linux, first search the [issue list](https://github.com/ValveSoftware/steam-for-linux/issues) to see if it has already been reported. Include closed issues in your search.
 
-If you have encountered issues with a Source game (HL2:DM, HL2, HL2:EP1, HL2:EP2, TF2, DoD:S, CS:S), please visit our [Source issue list](https://github.com/ValveSoftware/Source-1-Games/issues), the same goes for GoldSrc-based games (HL, HL:BS, HL:OF, TFC, DoD, DMC, CS, CS:CZ or Ricochet) and the [Half-Life issue list](https://github.com/ValveSoftware/halflife/issues).
+For issues with:
 
-If you have encountered issues with Portal 2, please visit our [Portal 2 Issue List](https://github.com/ValveSoftware/portal2/issues).
+* Source-based games (HL2:DM, HL2, HL2:EP1, HL2:EP2, TF2, DoD:S, CS:S), visit our [Source Issue List](https://github.com/ValveSoftware/Source-1-Games/issues)
+* GoldSrc-based games (HL, HL:BS, HL:OF, TFC, DoD, DMC, CS, CS:CZ or Ricochet), visit our [Half-Life Issue List](https://github.com/ValveSoftware/halflife/issues)
+* Portal 2, visit our [Portal 2 Issue List](https://github.com/ValveSoftware/portal2/issues)
+* CS:GO, visit our [CS:GO Issue List](https://github.com/ValveSoftware/csgo-osx-linux/issues)
 
 If it has not been reported, create a new issue with at least the following information:
 
