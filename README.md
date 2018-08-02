@@ -43,11 +43,23 @@ If it has not been reported, create a new issue with at least the following info
 - a short, descriptive title;
 - a detailed description of the issue, including any output from the command line;
 - steps for reproducing the issue; and
-- your system information.\*
+- your [system information](#system-information).
 
-Please place logs either in a code block (press `M` in your browser for a GFM cheat sheet) or a [gist](https://gist.github.com).
+Please place logs either in a code block ([go here](https://guides.github.com/features/mastering-markdown/) for a GFM cheat sheet) or a [gist](https://gist.github.com).
 
-\* The preferred and easiest way to get this information is from Steam's Hardware Information viewer from the menu (`Help -> System Information`). Once your information appears: right-click within the dialog, choose `Select All`, right-click again, and then choose `Copy`. Paste this information into your report, preferably in a code block.
+When possible, please include a differential between a working configuration and the reported issue.
+
+If a crash is involved, please include any CrashIDs or minidumps related to the issue in an archive. Archives can be drag and dropped into the text box of github.
+
+For tracking purposes, there should be one issue per issue report.
+
+### System Information
+
+System information can be gathered from within steam (`Help -> System Information`).
+
+Once your information appears: right-click within the dialog, choose `Select All`, right-click again, and then choose `Copy`.
+Paste this information into a [gist](https://gist.github.com/) and include a link to it from your bug report.
+
 
 Conduct
 -------
