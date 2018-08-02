@@ -18,7 +18,7 @@ Steam for Linux requires the following:
 - 64-bit (x86-64, AMD64) *and* 32-bit (i386, IA32) graphics drivers and glibc
 - Latest graphics driver
 - NVidia driver support - For recent cards (e.g. series 8), you will need to install 310.x. For older cards, driver 304.x supports the NVidia 6 and 7 GPU series. To access these drivers, first update your cache and then install the specific [driver](https://support.steampowered.com/kb_article.php?ref=8509-RFXM-1964) you need from the list in Additional Drivers.
-- AMD driver support - For recent cards (e.g. series 5 and above), we recommend installing the 12.11 driver. For older cards, Catalyst 13.1 Legacy supports the HD 2400 Pro card and is the latest for the 2 and 4 GPU series.
+- AMD driver support - For recent cards (e.g. series 5 and above), we recommend installing the 12.11 driver. For older video cards, Catalyst 13.1 Legacy supports the HD 2400 Pro video cards and is the latest for the 2 and 4 GPU series.
 - Intel HD 3000/4000 driver support - you will need to use the latest Mesa drivers, Mesa 9 or later. For installation instructions, see [here](http://wiki.ubuntu.com/Valve).
 
 Getting Started
