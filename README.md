@@ -37,6 +37,7 @@ For issues with:
 * GoldSrc-based games (HL, HL:BS, HL:OF, TFC, DoD, DMC, CS, CS:CZ or Ricochet), visit our [Half-Life Issue List](https://github.com/ValveSoftware/halflife/issues)
 * Portal 2, visit our [Portal 2 Issue List](https://github.com/ValveSoftware/portal2/issues)
 * CS:GO, visit our [CS:GO Issue List](https://github.com/ValveSoftware/csgo-osx-linux/issues)
+* Games using Proton, visut our [Proton Issue List](https://github.com/ValveSoftware/Proton/issues)
 
 If it has not been reported, create a new issue with at least the following information:
 
