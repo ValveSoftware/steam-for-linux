@@ -9,7 +9,7 @@ Steam for Linux requires the following:
 
 - 1 GHz Pentium 4 or AMD Opteron with 512 megabytes of RAM and 5 gigabytes of hard drive space, or better
 - Internet connection (Cable/DSL speeds recommended)
-- Ubuntu 12.04 LTS, fully updated
+- Latest Ubuntu LTS, fully updated
 - Latest graphics driver
 - NVidia driver support - For recent cards (e.g. series 8), you will need to install 310.x. For older cards, driver 304.x supports the NVidia 6 and 7 GPU series. To access these drivers, first update your cache and then install the specific [driver](https://support.steampowered.com/kb_article.php?ref=8509-RFXM-1964) you need from the list in Additional Drivers.
 - AMD driver support - For recent cards (e.g. series 5 and above), we recommend installing the 12.11 driver. For older cards, Catalyst 13.1 Legacy supports the HD 2400 Pro card and is the latest for the 2 and 4 GPU series.
