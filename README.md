@@ -7,7 +7,9 @@ Hardware and Software Requirements
 ----------------------------------
 Steam for Linux requires the following:
 
-- 1 GHz Pentium 4 or AMD Opteron with x86-64 (AMD64) instruction set
+- 1 GHz Pentium 4 or AMD Opteron with:
+    - x86-64 (AMD64) instruction set
+    - CMPXCHG16B instruction support (`cx16` in `/proc/cpuinfo` flags)
 - 512 megabytes of RAM and 5 gigabytes of hard drive space, or better
 - Internet connection (Cable/DSL speeds recommended)
 - Latest Ubuntu LTS, fully updated
