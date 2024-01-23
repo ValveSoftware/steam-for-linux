@@ -24,7 +24,7 @@ Getting Started
 ---------------
 Install Steam for Linux client:
 
-1. Download the `steam_latest.deb` package from this [location](https://store.steampowered.com/about).
+1. Download the `steam.deb` package from this [location](https://store.steampowered.com/about) ([direct](https://cdn.akamai.steamstatic.com/client/installer/steam.deb)).
 2. Open a graphical file manager (for Ubuntu 12.04, click the folder icon on the Unity Launch bar).
 3. Navigate to the directory containing `steam_latest.deb` and double-click it. This launches Ubuntu Software Center and installs the package.
 4. If you prefer to install from the command-line, use gdebi. Install the `gdebi-core` package (`apt install gdebi-core`) and then install the Steam for Linux package (`gdebi steam_latest.deb`).
