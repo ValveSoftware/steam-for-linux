@@ -24,7 +24,6 @@ Getting Started
 ---------------
 
 1. Add the official apt repsository and signing key:
-
 ```bash
 sudo curl -o /usr/share/keyrings/steam.gpg https://repo.steampowered.com/steam/archive/stable/steam.gpg
 sudo tee /etc/apt/sources.list.d/steam-stable.list <<'EOF'
@@ -33,11 +32,11 @@ deb-src [arch=amd64,i386 signed-by=/usr/share/keyrings/steam.gpg] https://repo.s
 EOF
 ```
 2. Add 32-bit support (if on amd64)
-```
+```bash
 sudo dpkg --add-architecture i386
 ```
 3. Update the package cache, and install steam and its dependencies
-```sudo
+```bash
 sudo apt-get update
 sudo apt-get install \
   libgl1-mesa-dri:amd64 \
