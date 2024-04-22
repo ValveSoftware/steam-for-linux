@@ -22,11 +22,11 @@ Getting Started
 ---------------
 Install Steam for Linux client:
 
-1. Download the `steam_latest.deb` package from this [location](http://media.steampowered.com/client/installer/steam.deb).
+1. Download the `steam_latest.deb` package from this [location](https://media.steampowered.com/client/installer/steam.deb).
 2. Navigate to the directory containing `steam_latest.deb` and double-click it. This launches Ubuntu Software Center and installs the package.
 3. If you prefer to install from the command-line, use gdebi. Install the `gdebi-core` package (`apt install gdebi-core`) and then install the Steam for Linux package (`gdebi steam_latest.deb`).
 
-For a list of games supported by Steam for Linux either visit this [page](https://support.steampowered.com/kb_article.php?ref=8495-OKZC-0159) or click Store (from the client) and then the Linux tab on the far right. We recommend that you join the Steam for Linux official game group, located [here](http://steamcommunity.com/app/221410). You will find future beta announcements and other information posted here as well as an active discussion forum.
+For a list of games supported by Steam for Linux either visit this [page](https://support.steampowered.com/kb_article.php?ref=8495-OKZC-0159) or click Store (from the client) and then the Linux tab on the far right. We recommend that you join the Steam for Linux official game group, located [here](https://steamcommunity.com/app/221410). You will find future beta announcements and other information posted here as well as an active discussion forum.
 
 Reporting Issues
 ----------------
