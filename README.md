@@ -7,18 +7,16 @@ Hardware and Software Requirements
 ----------------------------------
 Steam for Linux requires the following:
 
-- 1 GHz Pentium 4 or AMD Opteron with:
-    - x86-64 (AMD64) instruction set
-    - CMPXCHG16B instruction support (`cx16` in `/proc/cpuinfo` flags)
-    - SSE3 instruction support (`pni` in `/proc/cpuinfo` flags)
-- 512 megabytes of RAM and 5 gigabytes of hard drive space, or better
-- Internet connection (Cable/DSL speeds recommended)
-- Latest Ubuntu LTS, fully updated
-- 64-bit (x86-64, AMD64) Linux kernel
-- 64-bit (x86-64, AMD64) *and* 32-bit (i386, IA32) graphics drivers and glibc
-- Latest graphics driver
-- NVidia driver support - For recent cards (e.g. series 8), you will need to install 310.x. For older cards, driver 304.x supports the NVidia 6 and 7 GPU series. To access these drivers, first update your cache and then install the specific [driver](https://support.steampowered.com/kb_article.php?ref=8509-RFXM-1964) you need from the list in Additional Drivers.
-- AMD and Intel driver support - you will need to use the latest Mesa drivers, Mesa 9 or later. These should be preinstalled on your Distro
+- OS: Latest Ubuntu or Ubuntu LTS with a 64-bit (`x86_64`, `AMD64`) Linux kernel
+- Processor: 1GHz Pentium 4 or AMD Opteron equivalent or better
+    - Any `x86_64` / `AMD64` CPU with support for the `CMPXCHG16B` and `SSE3` instruction sets
+- Memory: 512 MB RAM
+- Graphics: Any NVIDIA / AMD / Intel
+    - Requires latest 64-bit (`x86_64`, `AMD64`) *and* 32-bit (`i386`, `IA32`) graphics drivers. Install them using `sudo ubuntu-drivers autoinstall`.
+- Storage: 5 GB available space
+- Additional Notes:
+    - Requires internet connection for initial installation
+    - Requires 64-bit (`x86_64`, `AMD64`) *and* 32-bit (`i386`, `IA32`) glibc
 
 Getting Started
 ---------------
@@ -45,6 +43,8 @@ sudo apt-get install \
   libgl1-mesa-glx:i386 \
   steam-launcher
 ```
+
+For a list of games supported by Steam for Linux either visit this [page](https://support.steampowered.com/kb_article.php?ref=8495-OKZC-0159) or click Store (from the client) and then the Linux tab on the far-right. We recommend that you join the Steam for Linux official game group, located [here](http://steamcommunity.com/app/221410). You will find future beta announcements and other information posted here as well as an active discussion forum.
 
 Reporting Issues
 ----------------
