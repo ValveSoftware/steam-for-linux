@@ -8,6 +8,7 @@ Hardware and Software Requirements
 Steam for Linux requires the following:
 
 - OS: Latest Ubuntu or Ubuntu LTS with a 64-bit (`x86_64`, `AMD64`) Linux kernel
+    - Older Ubuntu LTS branches are not supported and may stop working in a future Steam release, especially the branches in ESM status (Ubuntu 18.04 or older).
 - Processor: 1GHz Pentium 4 or AMD Opteron equivalent or better
     - Any `x86_64` / `AMD64` CPU with support for the `CMPXCHG16B` and `SSE3` instruction sets
 - Memory: 512 MB RAM
