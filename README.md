@@ -21,7 +21,7 @@ Steam for Linux requires the following:
 
 Getting Started
 ---------------
-Install Steam for Linux client:
+Install Steam for Linux client on Debian/Ubuntu:
 
 1. Download the `steam_latest.deb` package from this [location](http://media.steampowered.com/client/installer/steam.deb).
 2. Navigate to the directory containing `steam_latest.deb` and double-click it. This launches Ubuntu Software Center and installs the package.
