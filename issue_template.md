@@ -4,7 +4,7 @@
 * Distribution (e.g. Ubuntu): 
 * Opted into Steam client beta?: [Yes/No]
 * Have you checked for system updates?: [Yes/No]
-* Steam Logs: [generate by running this command in a terminal `tar -zcvf ~/Desktop/steam-logs.tar.gz ~/.steam/steam/logs`]
+* Steam Logs: [generate by running this command in a terminal: `tar -zcvf ~/steam-logs.tar.gz ~/.steam/steam/logs` or if you use the flatpak version from flathub then use this instead: `tar -zcvf ~/steam-logs.tar.gz ~/.var/app/com.valvesoftware.Steam/.steam/steam/logs`]
 * GPU: Nvidia/Intel/AMD
 
 #### Please describe your issue in as much detail as possible:
