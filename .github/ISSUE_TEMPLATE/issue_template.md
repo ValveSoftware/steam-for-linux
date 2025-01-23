@@ -1,3 +1,9 @@
+---
+name: Issue Report
+about: File an issue report.
+
+---
+
 #### Your system information
 
 * Steam client version (build number or date): 
