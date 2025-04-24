@@ -18,6 +18,7 @@ Steam for Linux requires the following:
 - Additional Notes:
     - Requires internet connection for initial installation
     - Requires 64-bit (`x86_64`, `AMD64`) *and* 32-bit (`i386`, `IA32`) glibc
+    - Starting from 2025-08-15, [glibc 2.31 or newer will be required](https://help.steampowered.com/en/faqs/view/107F-BB20-FB5A-1CE4). This affects users of older distributions such as Debian 10, RHEL/CentOS 8, Slackware 14.x, Ubuntu 18.04.
 
 Getting Started
 ---------------
