@@ -8,7 +8,7 @@ about: File an issue report.
 
 * Steam client version (build number or date): 
 * Distribution (e.g. Ubuntu): 
-* Opted into Steam client beta?: [Yes/No]
+* Opted in to Steam client beta?: [Yes/No]
 * Have you checked for system updates?: [Yes/No]
 * Steam Logs: [generate by running this command in a terminal `tar -zcvf ~/Desktop/steam-logs.tar.gz ~/.steam/steam/logs`]
 * GPU: Nvidia/Intel/AMD
