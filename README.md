@@ -5,7 +5,7 @@ This is the README for the Steam for Linux client.
 
 Hardware and Software Requirements
 ----------------------------------
-Steam for Linux requires the following:
+Steam for Linux stable client requirements are as follows:
 
 - OS: Latest Ubuntu or Ubuntu LTS with a 64-bit (`x86_64`, `AMD64`) Linux kernel
     - Older Ubuntu LTS branches are not supported and may stop working in a future Steam release, especially the branches in ESM status (Ubuntu 18.04 or older).
@@ -20,6 +20,7 @@ Steam for Linux requires the following:
     - Requires 64-bit (`x86_64`, `AMD64`) *and* 32-bit (`i386`, `IA32`) glibc
     - Starting from 2025-08-15, [glibc 2.31 or newer will be required](https://help.steampowered.com/en/faqs/view/107F-BB20-FB5A-1CE4). This affects users of older distributions such as Debian 10, RHEL/CentOS 8, Slackware 14.x, Ubuntu 18.04.
 
+For a list of requirements for the current beta client, please see [README.beta.md](README.beta.md)
 Getting Started
 ---------------
 Install Steam for Linux client:
